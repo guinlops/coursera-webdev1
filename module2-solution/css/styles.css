@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+
+section {
+
+    background-color: gray;
+    
+    padding: 10px;
+    
+    border: 3px solid black;
+    
+    /*width: 30%;*/
+    
+    /* height: 50%; */
+    
+    font-weight: bold;
+    
+    
+   
+    
+    font-family: cursive;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+/********** large devices *********/
+@media(min-width: 1200px){
+     .col-lg-3, {         
+      }
+      
+      .col-lg-3 {
+        margin-left: 5%;
+        width: 25%;
+        float: left;
+      }
+      
+    
+}
+
+/****************Medium Devices only ******************/
+
