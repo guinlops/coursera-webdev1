@@ -1,2 +1,2 @@
-# coursera-webdev1
-Repositório usado para o curso web-dev da JH university;
+# Desenvolvimento Web Coursera Johns Hopkins
+Este repositório reúne projetos desenvolvidos no curso HTML, CSS e JavaScript para Desenvolvedores Web da Johns Hopkins University, oferecido via Coursera. Os projetos exploram a criação de interfaces modernas, responsivas e dinâmicas, utilizando HTML, CSS, Bootstrap e JavaScript, aplicando boas práticas de desenvolvimento front-end para proporcionar uma experiência intuitiva e eficiente ao usuário.
